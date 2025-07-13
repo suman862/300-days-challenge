@@ -4,7 +4,11 @@ Welcome to my 300-day journey of mastering Artificial Intelligence, Machine Lear
 Each day, I study, build, or code — and log my progress here.
 
 ---
+<p align="center">
+  <img src="/home/suman12/300-days-challenge/transformer.png" width="90%">
+</p>
 
+--
 ## Daily Progress Log
 
 Check full log in [progress.md](./progress.md)
