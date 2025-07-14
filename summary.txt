@@ -1,0 +1,2 @@
+summary 
+1.    .shape only works in numpy or array not in python list. Because 
