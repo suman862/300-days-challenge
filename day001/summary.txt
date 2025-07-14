@@ -1,2 +1,2 @@
-Short note on Json 
-Json is a big company with a good amount of 
+summary 
+1.    .shape only works in numpy or array not in python list. Because 
