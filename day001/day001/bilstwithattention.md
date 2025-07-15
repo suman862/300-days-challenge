@@ -5,7 +5,7 @@
 
 ## 📊 BiLSTM Architecture
 
-![BiLSTM Diagram](/home/suman12/300-days-challenge/300-days-challenge/day001/day001/bilstm.png)  
+![BiLSTM Diagram](./home/suman12/300-days-challenge/300-days-challenge/day001/day001/bilstm.png)  
 
 ### Key Components:
 - Input sequence
