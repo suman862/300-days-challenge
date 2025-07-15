@@ -1,0 +1,283 @@
+{
+  "build": "h37c7471_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [
+    "glib 2.84.2 *_0"
+  ],
+  "depends": [
+    "libffi >=3.4,<4.0a0",
+    "libgcc-ng >=11.2.0",
+    "libiconv >=1.16,<2.0a0",
+    "libstdcxx-ng >=11.2.0",
+    "pcre2 >=10.42,<10.43.0a0",
+    "zlib >=1.2.13,<1.3.0a0"
+  ],
+  "extracted_package_dir": "/home/suman12/miniconda3/pkgs/libglib-2.84.2-h37c7471_0",
+  "files": [
+    "bin/gi-compile-repository",
+    "bin/gi-decompile-typelib",
+    "bin/gi-inspect-typelib",
+    "etc/conda/activate.d/libglib_activate.sh",
+    "etc/conda/deactivate.d/libglib_deactivate.sh",
+    "lib/libgio-2.0.so.0",
+    "lib/libgio-2.0.so.0.8400.2",
+    "lib/libgirepository-2.0.so",
+    "lib/libgirepository-2.0.so.0",
+    "lib/libgirepository-2.0.so.0.8400.2",
+    "lib/libglib-2.0.so.0",
+    "lib/libglib-2.0.so.0.8400.2",
+    "lib/libgmodule-2.0.so.0",
+    "lib/libgmodule-2.0.so.0.8400.2",
+    "lib/libgobject-2.0.so.0",
+    "lib/libgobject-2.0.so.0.8400.2",
+    "lib/libgthread-2.0.so.0",
+    "lib/libgthread-2.0.so.0.8400.2",
+    "lib/pkgconfig/gio-2.0.pc",
+    "lib/pkgconfig/gio-unix-2.0.pc",
+    "lib/pkgconfig/girepository-2.0.pc",
+    "lib/pkgconfig/glib-2.0.pc",
+    "lib/pkgconfig/gmodule-2.0.pc",
+    "lib/pkgconfig/gmodule-export-2.0.pc",
+    "lib/pkgconfig/gmodule-no-export-2.0.pc",
+    "lib/pkgconfig/gobject-2.0.pc",
+    "lib/pkgconfig/gthread-2.0.pc",
+    "libexec/gio-launch-desktop"
+  ],
+  "fn": "libglib-2.84.2-h37c7471_0.conda",
+  "license": "LGPL-2.1-or-later",
+  "link": {
+    "source": "/home/suman12/miniconda3/pkgs/libglib-2.84.2-h37c7471_0",
+    "type": 1
+  },
+  "md5": "fac1ebe8188d4296f6aef5e03af15770",
+  "name": "libglib",
+  "package_tarball_full_path": "/home/suman12/miniconda3/pkgs/libglib-2.84.2-h37c7471_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/gi-compile-repository",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/glib-split_1751358404017/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "a74f2c28990e23b3b5f93e6254efa3dcb59de695ae7fa0d8c8b7b148a0d8d36d",
+        "sha256_in_prefix": "0efdb365c4a062570a62a898e09d6308db09ec4f0ca97af7e26fdf6ca8c2b145",
+        "size_in_bytes": 214224
+      },
+      {
+        "_path": "bin/gi-decompile-typelib",
+        "path_type": "hardlink",
+        "sha256": "0cf3e1f9d87b565b015dd52f321231f8b80c590b4b662968364f9a40a71ffdb5",
+        "sha256_in_prefix": "0cf3e1f9d87b565b015dd52f321231f8b80c590b4b662968364f9a40a71ffdb5",
+        "size_in_bytes": 58480
+      },
+      {
+        "_path": "bin/gi-inspect-typelib",
+        "path_type": "hardlink",
+        "sha256": "fad5e043f253b8ba0bade82fab5fd40fbf2650d6b27a62d70b3d938a5fc76446",
+        "sha256_in_prefix": "fad5e043f253b8ba0bade82fab5fd40fbf2650d6b27a62d70b3d938a5fc76446",
+        "size_in_bytes": 16408
+      },
+      {
+        "_path": "etc/conda/activate.d/libglib_activate.sh",
+        "path_type": "hardlink",
+        "sha256": "7f972f0bd85732e0d85b15dfee7606127fa6d468db61342e4d59be4339254a16",
+        "sha256_in_prefix": "7f972f0bd85732e0d85b15dfee7606127fa6d468db61342e4d59be4339254a16",
+        "size_in_bytes": 136
+      },
+      {
+        "_path": "etc/conda/deactivate.d/libglib_deactivate.sh",
+        "path_type": "hardlink",
+        "sha256": "9f59969d1f46f2600c39da3dcbcbb10310b2c6bedf6893364883a6dccd7dbabb",
+        "sha256_in_prefix": "9f59969d1f46f2600c39da3dcbcbb10310b2c6bedf6893364883a6dccd7dbabb",
+        "size_in_bytes": 180
+      },
+      {
+        "_path": "lib/libgio-2.0.so.0",
+        "path_type": "softlink",
+        "sha256": "136aa4af9aaf385fff95b95dc80ffdd7244edff518e7675c43f37f9588e9483c",
+        "size_in_bytes": 2392680
+      },
+      {
+        "_path": "lib/libgio-2.0.so.0.8400.2",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/glib-split_1751358404017/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "136aa4af9aaf385fff95b95dc80ffdd7244edff518e7675c43f37f9588e9483c",
+        "sha256_in_prefix": "8311e922370e282b675704a5068f185cf149ed53be9ee6396d99b62e22235c3a",
+        "size_in_bytes": 2392680
+      },
+      {
+        "_path": "lib/libgirepository-2.0.so",
+        "path_type": "softlink",
+        "sha256": "5ab9bb46c70e74503c6503058031c580a92ec23a128e9b79c1c6ad3f3851bc04",
+        "size_in_bytes": 289216
+      },
+      {
+        "_path": "lib/libgirepository-2.0.so.0",
+        "path_type": "softlink",
+        "sha256": "5ab9bb46c70e74503c6503058031c580a92ec23a128e9b79c1c6ad3f3851bc04",
+        "size_in_bytes": 289216
+      },
+      {
+        "_path": "lib/libgirepository-2.0.so.0.8400.2",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/glib-split_1751358404017/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "5ab9bb46c70e74503c6503058031c580a92ec23a128e9b79c1c6ad3f3851bc04",
+        "sha256_in_prefix": "39c2b2fc8a4a902fa09078ae966106d345cf2181307f2c763d6c2c7c68e683e1",
+        "size_in_bytes": 289216
+      },
+      {
+        "_path": "lib/libglib-2.0.so.0",
+        "path_type": "softlink",
+        "sha256": "79ef9d74002fe2932868a277b9a97f8c1a577e7231eb3ad640e7823329399df0",
+        "size_in_bytes": 1568464
+      },
+      {
+        "_path": "lib/libglib-2.0.so.0.8400.2",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/glib-split_1751358404017/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "79ef9d74002fe2932868a277b9a97f8c1a577e7231eb3ad640e7823329399df0",
+        "sha256_in_prefix": "aaa46c98a7c2a514d616b3b212b4e668a9884b50dae4a6ce388667bbeea87c67",
+        "size_in_bytes": 1568464
+      },
+      {
+        "_path": "lib/libgmodule-2.0.so.0",
+        "path_type": "softlink",
+        "sha256": "112fc00f0146ce4c4dcdeb39a89e2952d825b10f3ac1809b7ac7c43b9ff0b9f2",
+        "size_in_bytes": 26056
+      },
+      {
+        "_path": "lib/libgmodule-2.0.so.0.8400.2",
+        "path_type": "hardlink",
+        "sha256": "112fc00f0146ce4c4dcdeb39a89e2952d825b10f3ac1809b7ac7c43b9ff0b9f2",
+        "sha256_in_prefix": "112fc00f0146ce4c4dcdeb39a89e2952d825b10f3ac1809b7ac7c43b9ff0b9f2",
+        "size_in_bytes": 26056
+      },
+      {
+        "_path": "lib/libgobject-2.0.so.0",
+        "path_type": "softlink",
+        "sha256": "4d2ebcebbbb670f446760f754100e0d6d02899d122a0bda1552b42032b122d55",
+        "size_in_bytes": 484200
+      },
+      {
+        "_path": "lib/libgobject-2.0.so.0.8400.2",
+        "path_type": "hardlink",
+        "sha256": "4d2ebcebbbb670f446760f754100e0d6d02899d122a0bda1552b42032b122d55",
+        "sha256_in_prefix": "4d2ebcebbbb670f446760f754100e0d6d02899d122a0bda1552b42032b122d55",
+        "size_in_bytes": 484200
+      },
+      {
+        "_path": "lib/libgthread-2.0.so.0",
+        "path_type": "softlink",
+        "sha256": "b2d8cf9f3e71deba8e411eb1650a1fbd58b2134f09ffc971d4445bac68d15136",
+        "size_in_bytes": 15280
+      },
+      {
+        "_path": "lib/libgthread-2.0.so.0.8400.2",
+        "path_type": "hardlink",
+        "sha256": "b2d8cf9f3e71deba8e411eb1650a1fbd58b2134f09ffc971d4445bac68d15136",
+        "sha256_in_prefix": "b2d8cf9f3e71deba8e411eb1650a1fbd58b2134f09ffc971d4445bac68d15136",
+        "size_in_bytes": 15280
+      },
+      {
+        "_path": "lib/pkgconfig/gio-2.0.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/glib-split_1751358404017/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "910bcf0f8924c19fc8953819fbf56c0495210f897b63803d93fe1fc111046c3b",
+        "sha256_in_prefix": "f8fae8e8a856a9955c7ede4b5eaa75600743d1d46ef1eafc0b41bba950650721",
+        "size_in_bytes": 971
+      },
+      {
+        "_path": "lib/pkgconfig/gio-unix-2.0.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/glib-split_1751358404017/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "cc6de8b4619413d7feed3ae91f4c1e4c1015c6ade4446be17f693567edad938e",
+        "sha256_in_prefix": "2acccb9c450babe41f5d8c412f917cc59bcaca45ca5709678df77f24f6b41f9f",
+        "size_in_bytes": 462
+      },
+      {
+        "_path": "lib/pkgconfig/girepository-2.0.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/glib-split_1751358404017/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "b34ff84c921ae30a33d3925d1da9db62d4a653b5c236e9a4f9f3bd7c20e44d36",
+        "sha256_in_prefix": "56cf8136a20890209398740aee71cbf49940c7a13ff0da9614591a18cae5f2b8",
+        "size_in_bytes": 791
+      },
+      {
+        "_path": "lib/pkgconfig/glib-2.0.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/glib-split_1751358404017/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "3b945d03de9adc3b9fb565029719f1ee6635c96c28b2b7432e0441810f9c0520",
+        "sha256_in_prefix": "f0276f5b05e8683adc31b72993e60466c5b28d36020db83c8e9044256fd80e78",
+        "size_in_bytes": 773
+      },
+      {
+        "_path": "lib/pkgconfig/gmodule-2.0.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/glib-split_1751358404017/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "78be63f7e559a3fe91e4b4966c46261dc3e31180544decbeedcc26fb99d7957f",
+        "sha256_in_prefix": "f1f55bea3602f8fa489a9a70664873708986d4d75a1779cfbcb01b03a65a1d20",
+        "size_in_bytes": 505
+      },
+      {
+        "_path": "lib/pkgconfig/gmodule-export-2.0.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/glib-split_1751358404017/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "78be63f7e559a3fe91e4b4966c46261dc3e31180544decbeedcc26fb99d7957f",
+        "sha256_in_prefix": "f1f55bea3602f8fa489a9a70664873708986d4d75a1779cfbcb01b03a65a1d20",
+        "size_in_bytes": 505
+      },
+      {
+        "_path": "lib/pkgconfig/gmodule-no-export-2.0.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/glib-split_1751358404017/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "c926b8f9a9eae58a30dc9b90eee58b1426f6ca1a9e2a8eb4cc2367f7adfef518",
+        "sha256_in_prefix": "6d9b8c2b73cd4fbc3cee3a5d5c250d891cdc1e46805d1a63b034bef6d86fd054",
+        "size_in_bytes": 524
+      },
+      {
+        "_path": "lib/pkgconfig/gobject-2.0.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/glib-split_1751358404017/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "f22d006ef7cdf3407188c397d39c198f4f1c4c3698a409b74097d079fe2061f4",
+        "sha256_in_prefix": "abe92a19890d78833618a7e7098360dd0673821433523b704d35ea3d73bb5722",
+        "size_in_bytes": 515
+      },
+      {
+        "_path": "lib/pkgconfig/gthread-2.0.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/glib-split_1751358404017/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "7a2a1e951baa95a9de3a70aa91e2a6ad7b12265477bb645544677938ed080d3d",
+        "sha256_in_prefix": "271ee7528099865f3c851e1400c4d61cc3e2f3b83050cf724bc153845c6d3a51",
+        "size_in_bytes": 474
+      },
+      {
+        "_path": "libexec/gio-launch-desktop",
+        "path_type": "hardlink",
+        "sha256": "27d4b7a3fe6a0e25b388901bd56a758007c1a4797bd6b74789822f881ac2e465",
+        "sha256_in_prefix": "27d4b7a3fe6a0e25b388901bd56a758007c1a4797bd6b74789822f881ac2e465",
+        "size_in_bytes": 16672
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "456c3a44f964c779bf934fe8bf703cd791187dcff5db247ee91e3f2cbf009c7d",
+  "size": 1803862,
+  "subdir": "linux-64",
+  "timestamp": 1751358612000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/libglib-2.84.2-h37c7471_0.conda",
+  "version": "2.84.2"
+}

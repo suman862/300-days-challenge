@@ -1,0 +1,162 @@
+{
+  "build": "h6a678d5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=11.2.0",
+    "libstdcxx-ng >=11.2.0"
+  ],
+  "extracted_package_dir": "/home/suman12/miniconda3/pkgs/aom-3.6.0-h6a678d5_0",
+  "files": [
+    "bin/aomdec",
+    "bin/aomenc",
+    "include/aom/aom.h",
+    "include/aom/aom_codec.h",
+    "include/aom/aom_decoder.h",
+    "include/aom/aom_encoder.h",
+    "include/aom/aom_external_partition.h",
+    "include/aom/aom_frame_buffer.h",
+    "include/aom/aom_image.h",
+    "include/aom/aom_integer.h",
+    "include/aom/aomcx.h",
+    "include/aom/aomdx.h",
+    "lib/libaom.so",
+    "lib/libaom.so.3",
+    "lib/libaom.so.3.6.0",
+    "lib/pkgconfig/aom.pc"
+  ],
+  "fn": "aom-3.6.0-h6a678d5_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "/home/suman12/miniconda3/pkgs/aom-3.6.0-h6a678d5_0",
+    "type": 1
+  },
+  "md5": "bcd807dd3ca7678f34512989418743f6",
+  "name": "aom",
+  "package_tarball_full_path": "/home/suman12/miniconda3/pkgs/aom-3.6.0-h6a678d5_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/aomdec",
+        "path_type": "hardlink",
+        "sha256": "780e94ad193d07f73920818b4fb840653ba3f7090c16abbf0521f6b1475c3b4b",
+        "sha256_in_prefix": "780e94ad193d07f73920818b4fb840653ba3f7090c16abbf0521f6b1475c3b4b",
+        "size_in_bytes": 221656
+      },
+      {
+        "_path": "bin/aomenc",
+        "path_type": "hardlink",
+        "sha256": "61629f60309fd9b04194cf24f1e705841a68cee6c1612256307bd576ecf463f9",
+        "sha256_in_prefix": "61629f60309fd9b04194cf24f1e705841a68cee6c1612256307bd576ecf463f9",
+        "size_in_bytes": 290344
+      },
+      {
+        "_path": "include/aom/aom.h",
+        "path_type": "hardlink",
+        "sha256": "dd3b2d4ef0e384cb6b33321c26c2af5cbb73a110a713cd89fe4092c3ccc82712",
+        "sha256_in_prefix": "dd3b2d4ef0e384cb6b33321c26c2af5cbb73a110a713cd89fe4092c3ccc82712",
+        "size_in_bytes": 3873
+      },
+      {
+        "_path": "include/aom/aom_codec.h",
+        "path_type": "hardlink",
+        "sha256": "8d421189d4ec010ff80b7a2fb44ebc1e0347e98f297ec0d301118012e318b94d",
+        "sha256_in_prefix": "8d421189d4ec010ff80b7a2fb44ebc1e0347e98f297ec0d301118012e318b94d",
+        "size_in_bytes": 20283
+      },
+      {
+        "_path": "include/aom/aom_decoder.h",
+        "path_type": "hardlink",
+        "sha256": "cdd21eba3a7234774cbde9e6fc9062cdc9fc1d90d53dec5490f6059f961c5052",
+        "sha256_in_prefix": "cdd21eba3a7234774cbde9e6fc9062cdc9fc1d90d53dec5490f6059f961c5052",
+        "size_in_bytes": 10418
+      },
+      {
+        "_path": "include/aom/aom_encoder.h",
+        "path_type": "hardlink",
+        "sha256": "45a650684677b538f8da1fe7b4c80cc210615e5728b275062b03fbe63c4495d8",
+        "sha256_in_prefix": "45a650684677b538f8da1fe7b4c80cc210615e5728b275062b03fbe63c4495d8",
+        "size_in_bytes": 41118
+      },
+      {
+        "_path": "include/aom/aom_external_partition.h",
+        "path_type": "hardlink",
+        "sha256": "dc8acec5521bfecdc0f560ee4970648228ea52c4406fe701c720cdb3b9ce1ab8",
+        "sha256_in_prefix": "dc8acec5521bfecdc0f560ee4970648228ea52c4406fe701c720cdb3b9ce1ab8",
+        "size_in_bytes": 17888
+      },
+      {
+        "_path": "include/aom/aom_frame_buffer.h",
+        "path_type": "hardlink",
+        "sha256": "41fb5154aa5e997ad2391045955f2ff005e8fce94cdd6ca5a4e2a7110df2f3aa",
+        "sha256_in_prefix": "41fb5154aa5e997ad2391045955f2ff005e8fce94cdd6ca5a4e2a7110df2f3aa",
+        "size_in_bytes": 3326
+      },
+      {
+        "_path": "include/aom/aom_image.h",
+        "path_type": "hardlink",
+        "sha256": "0545ae33f648e120206f47709269d701f6be485fe169f2efb30624411d24f304",
+        "sha256_in_prefix": "0545ae33f648e120206f47709269d701f6be485fe169f2efb30624411d24f304",
+        "size_in_bytes": 19240
+      },
+      {
+        "_path": "include/aom/aom_integer.h",
+        "path_type": "hardlink",
+        "sha256": "ef8c0940d43d930a55dbb0370860cc2e316ce44f0962934137a684e2d881701b",
+        "sha256_in_prefix": "ef8c0940d43d930a55dbb0370860cc2e316ce44f0962934137a684e2d881701b",
+        "size_in_bytes": 2287
+      },
+      {
+        "_path": "include/aom/aomcx.h",
+        "path_type": "hardlink",
+        "sha256": "ddba5d912744fbb136ede02e88d8955b83b092f715a4d6a553e186c45b8e31a4",
+        "sha256_in_prefix": "ddba5d912744fbb136ede02e88d8955b83b092f715a4d6a553e186c45b8e31a4",
+        "size_in_bytes": 67441
+      },
+      {
+        "_path": "include/aom/aomdx.h",
+        "path_type": "hardlink",
+        "sha256": "d44d0dc2cd53dc92ccbd40e9b405f6a98b65e141bcc760e3743743b26d649600",
+        "sha256_in_prefix": "d44d0dc2cd53dc92ccbd40e9b405f6a98b65e141bcc760e3743743b26d649600",
+        "size_in_bytes": 19299
+      },
+      {
+        "_path": "lib/libaom.so",
+        "path_type": "softlink",
+        "sha256": "70d2e0efb811098c79d1b9495387131253b5f66b56042dcbbb14371ed75bf153",
+        "size_in_bytes": 7670624
+      },
+      {
+        "_path": "lib/libaom.so.3",
+        "path_type": "softlink",
+        "sha256": "70d2e0efb811098c79d1b9495387131253b5f66b56042dcbbb14371ed75bf153",
+        "size_in_bytes": 7670624
+      },
+      {
+        "_path": "lib/libaom.so.3.6.0",
+        "path_type": "hardlink",
+        "sha256": "70d2e0efb811098c79d1b9495387131253b5f66b56042dcbbb14371ed75bf153",
+        "sha256_in_prefix": "70d2e0efb811098c79d1b9495387131253b5f66b56042dcbbb14371ed75bf153",
+        "size_in_bytes": 7670624
+      },
+      {
+        "_path": "lib/pkgconfig/aom.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/aom_1688660392871/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_pla",
+        "sha256": "16cb94c4ac316b9ab8413dbdc131d9474de7c853af8c5ed1666ae7eed2a0da63",
+        "sha256_in_prefix": "8f5378e3b843d015811a6660c0cfbecb0d6d89f1d7b776a45b385426a84129ac",
+        "size_in_bytes": 803
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "80be7a6441945886b1c9937583c6447613a5b9b1d6b7a9153a77c582afdce209",
+  "size": 2924394,
+  "subdir": "linux-64",
+  "timestamp": 1688660715000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/aom-3.6.0-h6a678d5_0.conda",
+  "version": "3.6.0"
+}

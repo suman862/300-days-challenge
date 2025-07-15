@@ -10,7 +10,7 @@
 
 | Day | Date       | Today’s Focus      | What I Learned                              | What I Practiced                | Reflection                             | Resources Used                       | 📁 Work               |
 |-----|------------|--------------------|----------------------------------------------|----------------------------------|-----------------------------------------|---------------------------------------|------------------------|
-| 001 | 2025-07-14 | Git & GitHub Basics | Fix `git pull --rebase` with stash/commit   | Pulling with rebase, using stash | Git errors taught me practical workflows | [Git Docs](https://git-scm.com/docs) | [📁 Folder](day001/)   |
+| 001 | 2025-07-15 | BILSTM | Fix `git pull --rebase` with stash/commit   | Pulling with rebase, using stash | Git errors taught me practical workflows | [YOUTUBE](https://www.youtube.com/watch?v=7oYePBOq4ec&t=116s) | [📁 Folder](day001/)   |
 | 002 | 2025-07-15 | *(Fill in)*         | *(Fill in)*                                  | *(Fill in)*                      | *(Fill in)*                             | *(Fill in)*                          | [📁 Folder](day002/)   |
 | 003 | 2025-07-16 | *(Fill in)*         | *(Fill in)*                                  | *(Fill in)*                      | *(Fill in)*                             | *(Fill in)*                          | [📁 Folder](day003/)   |
 | 004 | 2025-07-17 | *(Fill in)*         | *(Fill in)*                                  | *(Fill in)*                      | *(Fill in)*                             | *(Fill in)*                          | [📁 Folder](day004/)   |

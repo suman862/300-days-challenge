@@ -1,0 +1,107 @@
+{
+  "build": "h5eee18b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "aom >=3.6.0,<3.7.0a0",
+    "dav1d >=1.2.1,<1.2.2.0a0",
+    "libgcc-ng >=11.2.0"
+  ],
+  "extracted_package_dir": "/home/suman12/miniconda3/pkgs/libavif-1.1.1-h5eee18b_0",
+  "files": [
+    "include/avif/avif.h",
+    "include/avif/avif_cxx.h",
+    "lib/cmake/libavif/libavif-config-release.cmake",
+    "lib/cmake/libavif/libavif-config-version.cmake",
+    "lib/cmake/libavif/libavif-config.cmake",
+    "lib/libavif.so",
+    "lib/libavif.so.16",
+    "lib/libavif.so.16.1.1",
+    "lib/pkgconfig/libavif.pc"
+  ],
+  "fn": "libavif-1.1.1-h5eee18b_0.conda",
+  "license": "BSD-2-Clause",
+  "link": {
+    "source": "/home/suman12/miniconda3/pkgs/libavif-1.1.1-h5eee18b_0",
+    "type": 1
+  },
+  "md5": "0ab5f57926ebeda42fca4d6caf4e0eba",
+  "name": "libavif",
+  "package_tarball_full_path": "/home/suman12/miniconda3/pkgs/libavif-1.1.1-h5eee18b_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/avif/avif.h",
+        "path_type": "hardlink",
+        "sha256": "86bfebbf8f5c6fd06fc9424d82f85b75c4a00696009b76a8cd9196b8ab8f00fe",
+        "sha256_in_prefix": "86bfebbf8f5c6fd06fc9424d82f85b75c4a00696009b76a8cd9196b8ab8f00fe",
+        "size_in_bytes": 83366
+      },
+      {
+        "_path": "include/avif/avif_cxx.h",
+        "path_type": "hardlink",
+        "sha256": "fc00d268caf79e9f825256ed4b74e6a93f8e6002f625e823cb5c09b441925262",
+        "sha256_in_prefix": "fc00d268caf79e9f825256ed4b74e6a93f8e6002f625e823cb5c09b441925262",
+        "size_in_bytes": 916
+      },
+      {
+        "_path": "lib/cmake/libavif/libavif-config-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "b108cb99676d2626b9ea9bc3de05148271063281ae1776567e760d100d5a45af",
+        "sha256_in_prefix": "b108cb99676d2626b9ea9bc3de05148271063281ae1776567e760d100d5a45af",
+        "size_in_bytes": 797
+      },
+      {
+        "_path": "lib/cmake/libavif/libavif-config-version.cmake",
+        "path_type": "hardlink",
+        "sha256": "9c2043aefcebb4f98bba8d11bba0cd953707d2a93b6995466c41716460cf04bd",
+        "sha256_in_prefix": "9c2043aefcebb4f98bba8d11bba0cd953707d2a93b6995466c41716460cf04bd",
+        "size_in_bytes": 2762
+      },
+      {
+        "_path": "lib/cmake/libavif/libavif-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "072c95957c3fae92f073a8c8edc39c1b3fd16c01712421d495c3afede17b8c8d",
+        "sha256_in_prefix": "072c95957c3fae92f073a8c8edc39c1b3fd16c01712421d495c3afede17b8c8d",
+        "size_in_bytes": 3902
+      },
+      {
+        "_path": "lib/libavif.so",
+        "path_type": "softlink",
+        "sha256": "0973c82e538bbc0e6de164b375893a42379c798a8d4b8ba72a225c5da00d48fb",
+        "size_in_bytes": 228376
+      },
+      {
+        "_path": "lib/libavif.so.16",
+        "path_type": "softlink",
+        "sha256": "0973c82e538bbc0e6de164b375893a42379c798a8d4b8ba72a225c5da00d48fb",
+        "size_in_bytes": 228376
+      },
+      {
+        "_path": "lib/libavif.so.16.1.1",
+        "path_type": "hardlink",
+        "sha256": "0973c82e538bbc0e6de164b375893a42379c798a8d4b8ba72a225c5da00d48fb",
+        "sha256_in_prefix": "0973c82e538bbc0e6de164b375893a42379c798a8d4b8ba72a225c5da00d48fb",
+        "size_in_bytes": 228376
+      },
+      {
+        "_path": "lib/pkgconfig/libavif.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/croot/libavif_1733819927000/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold",
+        "sha256": "4388d10b10d43a1eac20d09f1549666aba7ec82d3c2a511cb9a4a7c642a9d241",
+        "sha256_in_prefix": "f1080c3fc3fcba5a9279f89a911651e579a96df22eaa0be5c37faa3730f4e2fa",
+        "size_in_bytes": 558
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "c5c1e30f6ef6ba1b5396e991190f5afdc6eb5a0d8843dcbf5746adab0392eaf3",
+  "size": 147321,
+  "subdir": "linux-64",
+  "timestamp": 1733819960000,
+  "url": "https://repo.anaconda.com/pkgs/main/linux-64/libavif-1.1.1-h5eee18b_0.conda",
+  "version": "1.1.1"
+}
