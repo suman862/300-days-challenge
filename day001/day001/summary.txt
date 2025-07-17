@@ -11,4 +11,4 @@ fully connected layer.
 
 4. real input/calculation  start from forward pass.
 
-5.
+5.In lstm,
