@@ -10,7 +10,11 @@
 
 | Day | Date       | Today’s Focus      | What I Learned                              | What I Practiced                | Reflection                             | Resources Used                       | 📁 Work               |
 |-----|------------|--------------------|----------------------------------------------|----------------------------------|-----------------------------------------|---------------------------------------|------------------------|
+<<<<<<< Updated upstream
 | 001 | 2025-07-15 | BILSTM | Fix `git pull --rebase` with stash/commit   | Pulling with rebase, using stash | Git errors taught me practical workflows | [YOUTUBE](https://www.youtube.com/watch?v=7oYePBOq4ec&t=116s) | [📁 Folder](day001/)   |
+=======
+| 001 | 2025-07-18 | BILSTM and Attention mechanism | How data flow from endcoder to decoder   | vasualize data at each step . | I enjoyed today learning. | [blogs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/) | [📁 Folder](day001/)   |
+>>>>>>> Stashed changes
 | 002 | 2025-07-15 | *(Fill in)*         | *(Fill in)*                                  | *(Fill in)*                      | *(Fill in)*                             | *(Fill in)*                          | [📁 Folder](day002/)   |
 | 003 | 2025-07-16 | *(Fill in)*         | *(Fill in)*                                  | *(Fill in)*                      | *(Fill in)*                             | *(Fill in)*                          | [📁 Folder](day003/)   |
 | 004 | 2025-07-17 | *(Fill in)*         | *(Fill in)*                                  | *(Fill in)*                      | *(Fill in)*                             | *(Fill in)*                          | [📁 Folder](day004/)   |
