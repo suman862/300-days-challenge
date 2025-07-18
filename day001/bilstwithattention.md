@@ -31,16 +31,15 @@ Why we only use bilstm in incoder only?
 
 ### Mathematical Formulation
 
- 
-### 3. Mathematical Formulation of Bidirectional LSTM
+
 
 #### Notation:
-- \(x_t\): Input vector at timestep \(t\)
-- \(\overrightarrow{h_t}\): Forward hidden state at \(t\)
-- \(\overleftarrow{h_t}\): Backward hidden state at \(t\)
-- \(T\): Total timesteps in sequence
-- \(\sigma\): Sigmoid activation function
-- \(\odot\): Element-wise multiplication
+- $x_t$: Input vector at timestep \(t\)
+- $\overrightarrow{h_t}$: Forward hidden state at \(t\)
+- $\overleftarrow{h_t}$: Backward hidden state at \(t\)
+- $T$: Total timesteps in sequence
+- $\sigma$: Sigmoid activation function
+- $\odot$: Element-wise  
 
 ---
 
