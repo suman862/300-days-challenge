@@ -53,6 +53,8 @@ Each day has:
 - `notes.md` → what I learned
 - `summary.txt` → key summary
 - `code.py` or `.ipynb` → code demo
+In `code.py`, I will write clean, production-ready code.
+In `.ipynb`, I will use a more informal, personal coding style written in my own words.
 
 ---
 
