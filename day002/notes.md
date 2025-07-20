@@ -1,3 +1,8 @@
+## Notes
+
+1. [Training code diagram](300-days-challenge/day002/modeltrainingflow.md)
+
+2. [Xavier Uniform for weight initialization](300-days-challenge/day002/xavierUniform.md)
 
 
 ###  Why Initialize Weights Carefully?
@@ -87,4 +92,29 @@ nn.init.zeros_(self.fc.bias)
 
 * Use **He Initialization** (`kaiming_`) if you're using **ReLU** activations.
 * For **LSTMs**, Xavier is generally safe because tanh/sigmoid are used in gates.
+
+
+
+
+
+##  FLOW DIAGRAM
+ `train_model` function down **step-by-step**, 
+
+```
+FOR epoch in range(num_epochs):
+    SET model to training mode
+    INIT loss to 0
+    FOR each batch (src, tgt) in dataloader:
+        Move data to device
+        Zero out gradients
+        Forward pass through model → Get output
+        Calculate loss using output and target
+        Backpropagate
+        Clip gradients
+        Update weights using optimizer
+        Track loss
+    END
+    Log average loss
+SAVE model
+```
 
